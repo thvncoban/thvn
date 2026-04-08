@@ -146,7 +146,13 @@ https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tvbvn" group-title="Giải Trí" tvg-logo="https://i.imgur.com/mk0KKai.png" , TVB Việt Nam
+#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp phim" tvg-logo="https://i.imgur.com/1mxcq86.png" , TV 360 Phim Việt
+https://vietanh18h1.duckdns.org/tv360/9902/index.m3u8
+#EXTINF:-1 tvg-id="tv360phimaumy" group-title="Rạp phim" tvg-logo="https://i.imgur.com/17XTJLa.png" , TV 360 Phim Âu Mỹ
+https://vietanh18h1.duckdns.org/tv360/9903/index.m3u8
+#EXTINF:-1 tvg-id="tv360phimhoathinh" group-title="Rạp phim" tvg-logo="https://i.imgur.com/yAU2eeH.png" , TV 360 Phim Hoạt Hình
+https://vietanh18h1.duckdns.org/tv360/9934/index.m3u8
+#EXTINF:-1 tvg-id="tvbvn" group-title="Rạp phim" tvg-logo="https://i.imgur.com/mk0KKai.png" , TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
