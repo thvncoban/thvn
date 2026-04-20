@@ -10,10 +10,6 @@
           {
             "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
             "type": "hls"
-          },
-          {
-            "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
-            "type": "hls"
           }
         ],
         "tags": [
@@ -26,10 +22,6 @@
         "name": "VTV1 HD",
         "logo": "https://i.imgur.com/jmIB42k.png",
         "sources": [
-          {
-            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
-            "type": "hls"
-          },
           {
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
             "type": "hls"
@@ -60,10 +52,6 @@
         "name": "VTV3 HD",
         "logo": "https://i.imgur.com/JD2VxJ8.png",
         "sources": [
-          {
-            "url": "https://vietanh18h1.duckdns.org/tv360/4/index.m3u8",
-            "type": "hls"
-          },
           {
             "url": "https://vietanh18h1.duckdns.org/tv360/4/index.m3u8",
             "type": "hls"
