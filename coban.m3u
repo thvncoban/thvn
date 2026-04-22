@@ -3,11 +3,16 @@
 
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
 
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
+https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
+https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/2zphMMd.png" , VTV2 HD
 https://vietanh18h1.duckdns.org/tv360/3/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
+https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/JD2VxJ8.png" , VTV3 HD
 https://vietanh18h1.duckdns.org/tv360/4/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/3VIZM0J.png" , VTV4 HD
@@ -293,6 +298,21 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/3muPHI0.png",TTV - TH Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO HD
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO HD
+https://hls.iill.top/api/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qw1cLUk.png", HBO Family
+http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9hzoiMK.png", HBO Signature HD
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/i9ObQQp.png", Outdoor Channel HD
 https://freem3u.xyz/api/live/play.m3u8?vid=216
