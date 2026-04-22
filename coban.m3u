@@ -298,20 +298,20 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/3muPHI0.png",TTV - TH Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO Asia HD
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/66gS4IP.png" , HBO Asia HD
 https://hls.iill.top/api/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits
+#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits Asia HD
 http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits
+#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kWizoCB.png" , HBO Hits Asia HD
 https://hls.iill.top/api/HBO-Hits/index.m3u8
 
-#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qw1cLUk.png", HBO Family
+#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qw1cLUk.png", HBO Family Asia HD
 http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9hzoiMK.png", HBO Signature HD
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9hzoiMK.png", HBO Signature Asia HD
 https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
