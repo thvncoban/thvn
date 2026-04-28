@@ -2,6 +2,9 @@
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 
 
+# Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
+
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/kKmGnM0.png", SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/bbE9hXE.png", SCTV2 Today TV
