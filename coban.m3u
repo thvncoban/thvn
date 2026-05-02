@@ -188,7 +188,7 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 https://vietanh18h1.duckdns.org/tv360/9902/index.m3u8
 #EXTINF:-1 tvg-id="360phimaumy" group-title="Rạp phim" tvg-logo="https://i.imgur.com/17XTJLa.png" , 360 Phim Âu Mỹ
 https://vietanh18h1.duckdns.org/tv360/9903/index.m3u8
-#EXTINF:-1 tvg-id="360phimhoathinh" group-title="Rạp phim" tvg-logo="https://i.imgur.com/yAU2eeH.png" , 360 Phim Hoạt Hình
+#EXTINF:-1 tvg-id="360hoathinh" group-title="Rạp phim" tvg-logo="https://i.imgur.com/yAU2eeH.png" , 360 Phim Hoạt Hình
 https://vietanh18h1.duckdns.org/tv360/9934/index.m3u8
 #EXTINF:-1 tvg-id="360phimhoangu" group-title="Rạp phim" tvg-logo="https://i.imgur.com/PbNEb8T.png" , 360 Phim Hoa Ngữ
 https://vietanh18h1.duckdns.org/tv360/10008/index.m3u8
