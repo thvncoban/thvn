@@ -3,15 +3,6 @@
 
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , Test 1
-http://hoatv001.ddns.net/iptv/admin.php?stream=677e6bc87beca4c0163d6b4e1ca9b3cd&token=653c50b221f6cd9a096ddbdacb741944
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , Test 2
-http://hoatv001.ddns.net/iptv/admin.php?stream=702da7e7a895029a82886045ef4ab91d&token=653c50b221f6cd9a096ddbdacb741944
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , Test 3
-http://hoatv001.ddns.net/iptv/admin.php?stream=10e09e0e14012c6aa411b7a8b64dc040&token=653c50b221f6cd9a096ddbdacb741944
-
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/jmIB42k.png" , VTV1 HD
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2
